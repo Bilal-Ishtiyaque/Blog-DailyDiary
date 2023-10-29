@@ -1,0 +1,39 @@
+
+/* Abel font */
+@font-face {
+    font-family: Abel;
+    src: url("../fonts/Abel/Abel-Regular.ttf") format("truetype");
+}
+
+
+/* Anton font */
+@font-face {
+    font-family: Anton;
+    src: url("../fonts/Anton/Anton-Regular.ttf") format("truetype");
+}
+
+
+/* Josefin font */
+@font-face {
+    font-family: Josefin;
+    src: url("../fonts/Josefin_Sans/static/JosefinSans-Regular.ttf") format("truetype");
+}
+
+
+/* Lexend font */
+@font-face {
+    font-family: Lexend;
+    src: url("../fonts/Lexend_Deca/static/LexendDeca-Regular.ttf") format("truetype");
+}
+
+
+/* Livvic font */
+@font-face {
+    font-family: Livvic;
+    src: url("../fonts/Livvic/Livvic-Regular.ttf") format("truetype");
+}
+
+
+
+
+
