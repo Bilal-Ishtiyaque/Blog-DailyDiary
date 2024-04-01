@@ -4,4 +4,4 @@ LinkedIn Video Link ⬇️
 
 # Preview :
 
-
+![daily diary ss-min](https://github.com/Bilal-Ishtiyaque/Blog-DailyDiary/assets/139645574/9ab7e72e-7cac-4e65-ac41-725b61e25ba9)
